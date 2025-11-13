@@ -1,0 +1,13 @@
+Jawaban No 1
+1. 	- Citra Asli = Menampilkan gradasi normal dari gelap ke terang. 
+jadi Citra asli menurut saya menampilkan gambar normal dan sedikit memperjelas gambarnya.
+	- Citra Negatif = Warna terang menjadi gelap, dan sebaliknya.
+jadi citra negatif menurut saya menampilkan gambar kontras yang cocok untuk menonjolkan detail di area terang.
+	- Citra Logaritmik = Area gelap menjadi lebih terang, sedangkan area terang tidak banyak berubah.
+jadi citra logaritmik menurut saya  menampilkan gambar yang lebih cerah di bagian gelap tanpa kehilangan detail di bagian terang.
+
+2.	- Negatif : Kondisi Penggunaan = Saat ingin menonjolkan detail di area terang atau memerlukan tampilan kontras terbalik. Dengan contoh kasus : Citra medis (rontgen), foto dengan latar belakang gelap.
+	-Logaritmik : Kondisi Penggunaan = Saat citra terlalu gelap, dan detail penting tersembunyi di area intensitas rendah. Dengan contoh kasus : Foto malam hari, citra astronomi, mikroskopi.
+	-Asli : Kondisi Penggunaan = Sebagai data dasar untuk perbandingan. Dengan contoh kasus : Sebelum diterapkan peningkatan citra.
+
+
